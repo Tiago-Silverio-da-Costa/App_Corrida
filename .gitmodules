@@ -1,0 +1,9 @@
+[submodule "App_Corrida_Front-User"]
+	path = App_Corrida_Front-User
+	url = https://github.com/Tiago-Silverio-da-Costa/App_Corrida_Front-User
+[submodule "App_Corrida_Front-Admin"]
+	path = App_Corrida_Front-Admin
+	url = https://github.com/Tiago-Silverio-da-Costa/App_Corrida_Front-Admin
+[submodule "App_Corrida_BackEnd"]
+	path = App_Corrida_BackEnd
+	url = https://github.com/Tiago-Silverio-da-Costa/App_Corrida_BackEnd
